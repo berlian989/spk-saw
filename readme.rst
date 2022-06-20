@@ -1,5 +1,5 @@
 ###################
 Tugas Akhir Rekomendasi Sistem
 ###################
-Rekomendasi sistem Web pariwisata menggunakan algoritman SPK SAW dan framework CodeIgniter .
+Rekomendasi sistem Web pariwisata menggunakan algoritman SAW dan framework CodeIgniter .
 
